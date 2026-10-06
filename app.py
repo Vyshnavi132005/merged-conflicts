@@ -1,5 +1,5 @@
 # Print a simple greeting
-fav-language = "AZure"
+fav-language = "AAWS"
 
 print("Hello, World!")
 
