@@ -1,5 +1,5 @@
 # Print a simple greeting
-fav-language = "python"
+fav-language = "AWS"
 print("Hello, World!")
 
 # Ask the user for their name and say hello
